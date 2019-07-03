@@ -1,0 +1,11 @@
+CLONING REPOSITORY & PUSH TO GITHUB
+git clone [respository link]
+git status
+git add [file name]
+git status
+git commit -m "message"
+git push
+
+GETTING PROJECT
+git clone [respository link]
+git pull
